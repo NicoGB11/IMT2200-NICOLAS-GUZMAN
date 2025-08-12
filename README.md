@@ -33,7 +33,7 @@ ___
 - Entregar en el módulo Actividad 1 en Canvas la URL de su repositorio para corrección.
 
 ### ✅ Solucion
-- El desarrollo lo podran encontrar [Aqui](actividad_01/README.md)
+- El desarrollo lo podran encontrar [Aqui](Actividades/actividad_01/README.md)
 ### 🔰 Logrado
 #### ⚜︎ Item 1
 - [ ] No logrado: 1.0 (faltan dos o más de los documentos esperados).
