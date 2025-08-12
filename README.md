@@ -28,8 +28,7 @@ Actividades:
 - Entregar en el módulo Actividad 1 en Canvas la URL de su repositorio para corrección.
 
 ### ✅ Solucion
-- La Actividad se desarrollo en la carpeta `actividad_01`, ahi se podra encontrar la imagen del mapa y el Notebook con el cual se hizo este mismo
-- el mapa se encuentra en el archivo **PoblacionRM_C2017_Nicolas_Guzman.png**
+- El desarrollo lo podran encontrar [Aqui](actividad_01/README.md)
 ### 🔰 Logrado
 #### ⚜︎ Item 1
 - [ ] No logrado: 1.0 (faltan dos o más de los documentos esperados).
@@ -48,9 +47,11 @@ Notas:
 ===
 ## Comandos de Git importantes:
 
-- `git init (proyecto)` = crea un nuevo repositorio local que se llama *proyecto*
-- `git clone (url)` = clona el repositorio de la url seleccionada
-- `git status` = ver archivos nuevos o modificados que necesitan confirmacion
-- `git add (nombre fila modificada/agregada)` = prepara un archivo para una nueva version
-- `git commit -m "mensaje descriptivo"` = confirma la preparacion y modifica la version de forma permanente
-- `git push` = carga los commits locales a **GitHub**
+- `git init (proyecto)` = Crea un nuevo repositorio local que se llama *proyecto*
+- `git clone (url)` = Clona el repositorio de la url seleccionada
+- `git status` = Ver archivos nuevos o modificados que necesitan confirmacion
+- `git add (nombre fila modificada/agregada)` = Prepara un archivo para una nueva version
+- `git commit -m "mensaje descriptivo"` = Confirma la preparacion y modifica la version de forma permanente
+- `git push` = Carga los commits locales a **GitHub**
+- `git pull origin (rama)` = Carga los commits de **GitHub** a tu espacio local
+- `git branch` = Ver en que tipo de rama estas
