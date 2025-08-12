@@ -6,11 +6,10 @@ INDICE
 ======
 | 📚 Seccion          | ✒️ Descripcion  |
 | ------------        | ------------ |
-| Actividades         | Seccion donde se muestra el registro de las actividades del curso             |
+| [Actividades](#actividades)     | Seccion donde se muestra el registro de las actividades del curso             |
 | Futuras Secciones   | Espacio generado para futuras secciones que vayan saliendo con el tiempo             |
-| Notas               | Seccion de Apuntes utiles para el curso             |
+| [Notas](#notas)                 | Seccion de Apuntes utiles para el curso             |
 
-[Ir a Sección Importante](#notas)
 ___
 Actividades:
 ===
