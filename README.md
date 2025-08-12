@@ -45,7 +45,7 @@ Notas:
 ## Comandos de Git importantes:
 
 - `git init (proyecto)` = crea un nuevo repositorio local que se llama *proyecto*
-- `git clone (url) = clona el repositorio de la url seleccionada
+- `git clone (url)` = clona el repositorio de la url seleccionada
 - `git status` = ver archivos nuevos o modificados que necesitan confirmacion
 - `git add (nombre fila modificada/agregada)` = prepara un archivo para una nueva version
 - `git commit -m "mensaje descriptivo"` = confirma la preparacion y modifica la version de forma permanente
