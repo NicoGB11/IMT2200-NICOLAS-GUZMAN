@@ -14,10 +14,10 @@ ___
 Actividades:
 ===
 ### Lista de Actividades:
-- [x] Actividad 1
-- [ ] Actividad 2
-- [ ] Actividad 3
-- [ ] Actividad X
+- [x] [Actividad 01](#actividad-01)
+- [ ] Actividad 02
+- [ ] Actividad 03
+- [ ] Actividad 0X
 
 ## Actividad 01:
 ### 🎯 Objetivos
