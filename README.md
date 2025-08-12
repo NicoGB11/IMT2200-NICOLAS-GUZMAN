@@ -24,7 +24,7 @@ ___
 - [ ] Actividad 03
 - [ ] Actividad XX
 
-## ⚙️Actividad 01:
+## Actividad 01:
 ### 🎯 Objetivos
 - Crear un repositorio en su cuenta personal con el nombre **IMT2200-<NOMBRE>-<APELLIDO>** y clonar en su computador.
 - Crear una carpeta adentro llamada **"Actividad 01"** y copiar adentro el contenido de la carpeta **"Actividad 01"** del repositorio del curso.
