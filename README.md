@@ -6,9 +6,9 @@ INDICE
 ======
 | 📚 Seccion          | ✒️ Descripcion  |
 | ------------        | ------------ |
-| [Actividades](#actividades)     | Seccion donde se muestra el registro de las actividades del curso             |
-| Futuras Secciones   | Espacio generado para futuras secciones que vayan saliendo con el tiempo             |
-| [Notas](#notas)                 | Seccion de Apuntes utiles para el curso             |
+| [**Actividades**](#actividades)     | Seccion donde se muestra el registro de las actividades del curso             |
+| [**Futuras Secciones**](#futuras-secciones)   | Espacio generado para futuras secciones que vayan saliendo con el tiempo             |
+| [**Notas**](#notas)                 | Seccion de Apuntes utiles para el curso             |
 
 ___
 Actividades:
@@ -39,6 +39,10 @@ Actividades:
 - [ ] Básico: 1.0 (no editaron el README.md, el Notebook o el mapa no tiene información).
 - [ ] Está todo lo esperado: 5.0 (editaron todos los documentos, nada especial adicional).
 - [ ] Contenido novedoso o diferente: 7.0 (fueron más allá e hicieron cosas interesantes).
+___
+Futuras Secciones:
+===
+Espacio creado por si es necesario una futura seccion
 ___
 Notas:
 ===
