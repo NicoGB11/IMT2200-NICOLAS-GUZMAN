@@ -6,7 +6,9 @@ INDICE
 ======
 | 📚 Seccion          | ✒️ Descripcion  |
 | ------------        | ------------ |
-| [**Actividades**](#actividades)     | Seccion donde se muestra el registro de las actividades del curso             |
+| [**Actividades**](#actividades)     | Seccion donde se muestra el registro de las **actividades** del curso             |
+| [**Tareas**](#tareas)     | Seccion donde se muestra el registro de las **tareas** del curso             |
+| [**Ayudantias**](#ayudantias)     | Seccion donde se muestra el registro de las **ayudantias** del curso             |
 | [**Futuras Secciones**](#futuras-secciones)   | Espacio generado para futuras secciones que vayan saliendo con el tiempo             |
 | [**Notas**](#notas)                 | Seccion de Apuntes utiles para el curso             |
 
@@ -17,7 +19,7 @@ Actividades:
 - [x] [Actividad 01](#actividad-01)
 - [ ] Actividad 02
 - [ ] Actividad 03
-- [ ] Actividad 0X
+- [ ] Actividad XX
 
 ## Actividad 01:
 ### 🎯 Objetivos
@@ -38,6 +40,23 @@ Actividades:
 - [ ] Básico: 1.0 (no editaron el README.md, el Notebook o el mapa no tiene información).
 - [ ] Está todo lo esperado: 5.0 (editaron todos los documentos, nada especial adicional).
 - [ ] Contenido novedoso o diferente: 7.0 (fueron más allá e hicieron cosas interesantes).
+___
+Tareas:
+===
+### Lista de Tareas:
+- [ ] Tarea 01
+- [ ] Tarea 02
+- [ ] Tarea 03
+- [ ] Tarea XX
+
+- AUN NO SE HAN DADO TAREAS
+___
+Ayudantias:
+===
+### Ayudantia 1
+### Ayudantia 2
+### Ayudantia 3
+
 ___
 Futuras Secciones:
 ===
