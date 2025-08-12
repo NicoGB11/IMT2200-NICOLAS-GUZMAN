@@ -9,7 +9,7 @@ Bienvenido a este repositorio, aca podran encontrar todo lo hecho por este estud
 ======
 | 📚 Seccion          | ✒️ Descripcion  |
 | ------------        | ------------ |
-| 👾 [**Actividades**](#actividades:)     | Seccion donde se muestra el registro de las **actividades** del curso             |
+| 👾 [**Actividades**](#actividades)     | Seccion donde se muestra el registro de las **actividades** del curso             |
 | 👽 [**Tareas**](#tareas)     | Seccion donde se muestra el registro de las **tareas** del curso             |
 | 🤖 [**Ayudantias**](#ayudantias)     | Seccion donde se muestra el registro de las **ayudantias** del curso             |
 | 🧠 [**Futuras Secciones**](#futuras-secciones)   | Espacio generado para futuras secciones que vayan saliendo con el tiempo             |
