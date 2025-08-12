@@ -10,6 +10,7 @@ INDICE
 | Futuras Secciones   | Espacio generado para futuras secciones que vayan saliendo con el tiempo             |
 | Notas               | Seccion de Apuntes utiles para el curso             |
 
+[Ir a Sección Importante](#notas)
 ___
 Actividades:
 ===
