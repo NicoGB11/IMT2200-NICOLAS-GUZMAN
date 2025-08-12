@@ -10,16 +10,16 @@ Bienvenido a este repositorio, aca podran encontrar todo lo hecho por este estud
 | 📚 Seccion          | ✒️ Descripcion  |
 | ------------        | ------------ |
 | 👾 [**Actividades**](#-actividades)     | Seccion donde se muestra el registro de las **actividades** del curso             |
-| 👽 [**Tareas**](#tareas)     | Seccion donde se muestra el registro de las **tareas** del curso             |
-| 🤖 [**Ayudantias**](#ayudantias)     | Seccion donde se muestra el registro de las **ayudantias** del curso             |
-| 🧠 [**Futuras Secciones**](#futuras-secciones)   | Espacio generado para futuras secciones que vayan saliendo con el tiempo             |
-| 👀 [**Notas**](#notas)                 | Seccion de Apuntes utiles para el curso             |
+| 👽 [**Tareas**](#-tareas)     | Seccion donde se muestra el registro de las **tareas** del curso             |
+| 🤖 [**Ayudantias**](#-ayudantias)     | Seccion donde se muestra el registro de las **ayudantias** del curso             |
+| 🧠 [**Futuras Secciones**](#-futuras-secciones)   | Espacio generado para futuras secciones que vayan saliendo con el tiempo             |
+| 👀 [**Notas**](#-notas)                 | Seccion de Apuntes utiles para el curso             |
 
 ___
 👾 Actividades:
 ===
 ### 🧾 Lista de Actividades:
-- [x] [Actividad 01](#actividad-01)
+- [x] [Actividad 01](#-actividad-01)
 - [ ] Actividad 02
 - [ ] Actividad 03
 - [ ] Actividad XX
